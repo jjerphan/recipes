@@ -12,3 +12,10 @@ authors:
     avatar: https://avatars.githubusercontent.com/u/885054?v=4
     slug: wolfv           # Author profile slug
     url: https://prefix.dev            # Author website URL
+
+  jjerphan:
+    name: Julien Jerphanion
+    description: contributor
+    avatar: https://avatars.githubusercontent.com/u/13029839?v=4
+    slug: jjerphan
+    url: https://github.com/jjerphan
